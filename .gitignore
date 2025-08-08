@@ -39,3 +39,5 @@ build/
 
 ### 톰캣 관련 제거
 .smarttomcat
+
+.env
