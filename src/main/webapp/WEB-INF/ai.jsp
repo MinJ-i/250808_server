@@ -1,8 +1,22 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
+<!-- OG Tag => 디스코드 상 미리보기 컨트롤 -->
+<!-- Webfont -->
+
 <!-- 1. 한글 사용 가능하게 설정 -->
 <html>
 <head>
-    <title>AI 너무 좋아!</title>
+    <title>AI 챗봇</title>
+    <!-- OG Tag -->
+    <meta property="og:title" content="0808 챗봇">
+    <meta property="og:description" content="던파 비트비트체를 사용한 챗봇">
+    <!-- Web Font -->
+    <style>
+        @font-face{
+          font-family:'bitbit';
+          src:url('//cdn.df.nexon.com/img/common/font/DNFBitBit-Regular.woff'),url('//cdn.df.nexon.com/img/common/font/DNFBitBit-Regular.woff2') ;
+        }
+    </style>
 </head>
 <body>
 <!-- II. 질문을 표시 -->
