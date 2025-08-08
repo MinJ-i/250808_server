@@ -6,7 +6,7 @@
     <title>AI 챗봇</title>
 
     <meta property="og:title" content="0808 챗봇">
-    <meta property="og:description" content="던파 비트비트체를 사용한 챗봇">
+    <meta property="og:description" content="Gamini로 구현한 챗봇">
 
     <style>
         @font-face {
